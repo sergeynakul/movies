@@ -1,0 +1,21 @@
+---
+1: !ruby/object:Movie
+  title: '1'
+  director: '2'
+  year: '3'
+  id: 1
+2: !ruby/object:Movie
+  title: '2'
+  director: ''
+  year: ''
+  id: 2
+3: !ruby/object:Movie
+  title: Терминатор
+  director: Дядя
+  year: '1995'
+  id: 3
+4: !ruby/object:Movie
+  title: '123'
+  director: ''
+  year: ''
+  id: 4
